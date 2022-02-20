@@ -9,6 +9,8 @@ RAM-8GB DDR4
 
 Editor-VScode
 
+Python Version - 3.9
+
 # Resources
 https://pytorch.org/docs/stable/index.html
 

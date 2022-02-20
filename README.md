@@ -3,7 +3,13 @@
 # Data Set
 
 # Project created and tested on
+CPU-INTEL I5
 
-# Add On's to consider
+RAM-8GB DDR4 
+
+Editor-VScode
 
 # Useful Resources
+https://pytorch.org/docs/stable/index.html
+
+https://scikit-learn.org/stable/

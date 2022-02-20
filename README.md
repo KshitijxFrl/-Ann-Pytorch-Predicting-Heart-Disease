@@ -4,7 +4,9 @@
 
 # Project created and tested on
 CPU-INTEL I5
+
 RAM-8GB DDR4 
+
 Editor-VScode
 
 # Useful Resources
